@@ -10,10 +10,10 @@
   <name>index-codes-service</name>
 
     <parent>
-        <groupId>cn.qxk.trend</groupId>
-        <artifactId>trendParentProject</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
-    </parent>
+    <groupId>cn.qxk.investment</groupId>
+    <artifactId>investment</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
 
   <dependencies>
       <!-- springboot web -->

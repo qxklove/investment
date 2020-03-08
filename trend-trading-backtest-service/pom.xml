@@ -10,8 +10,8 @@
   <name>trend-trading-backtest-service</name>
 
   <parent>
-    <groupId>cn.qxk.trend</groupId>
-    <artifactId>trendParentProject</artifactId>
+    <groupId>cn.qxk.investment</groupId>
+    <artifactId>investment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
